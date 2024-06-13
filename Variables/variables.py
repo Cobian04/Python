@@ -8,7 +8,12 @@ apellido = "Cobian"
 nombreCompleto = nombre + " " + apellido
 print(nombreCompleto)
 
-##Format
+##Concatenar con f-String
 segundoApellido = "Garcia"
 nombreEntero = f"Jan Cobian {segundoApellido}"
 print(nombreEntero)
+
+##Operadores de pertenencia 
+print("Garcia" in segundoApellido) #True
+print("jan" in segundoApellido) #False
+print("Hola" not in segundoApellido) #True
