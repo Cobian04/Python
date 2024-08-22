@@ -25,3 +25,4 @@ print(es_numerico)
 #alfanumerico
 es_alfa = cadena1.isalpha()
 print(es_alfa)
+

@@ -11,4 +11,15 @@ claves = diccionario.keys()
 valorClave = diccionario.get()
 
 
+#Elimina todos los elementos del diccionario
+limpiarDiccionario = diccionario.clear()
+
+#Eliminar un elemento del diccionario
+eliminarIUnElemento = diccionario.pop/("nombre")
+
+#Devuelve el diccionario 
+devolverDiccionario = diccionario.items()
+
+
+
 print(claves)

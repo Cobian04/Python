@@ -21,7 +21,7 @@ lista.extend(["hola", False, True, True, False, 1953])
 lista.pop(0)
 
 #Eliminando un elemento de la lista por su valor
-lista.remove("jan")
+#lista.remove("jan")
 
 #Eliminando todos los elementos de la lista
 #lista.clear
